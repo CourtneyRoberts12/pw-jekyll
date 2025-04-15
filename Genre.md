@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Genre's in Professional Writing
+title: Genres in Professional Writing
 permalink: /genre/
 ---
 
